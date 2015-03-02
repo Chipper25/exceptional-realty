@@ -1,18 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
-/* This 
-is 
-a comment! */
+/*///////// GLOBAL /////////*/
 
-/* Css Syntax:
-
-Selector {
-  property: value;
-  property: value;
+h3 {
+  margin: 0 0 10px;
 }
-
-*/
 
 /* Type selector */
 
@@ -38,6 +31,11 @@ figcaption {
   color: white;
   text-shadow: 0 2px 3px #000;
 }
+
+
+/*/////////////////BACKGROUNDS /////////////////*/
+
+
 
 /* ID selector (apply to one unique element per page) */
 
